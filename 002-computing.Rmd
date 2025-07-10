@@ -11,7 +11,9 @@ IF YOUR WORKSHOP INCLUDES COMPUTE:
 # Data and Compute Setup
 
 #### Course data downloads
-Coming soon!
+[DDA](https://drive.google.com/drive/folders/1kSsR2d_cI5FeDFW5lCD7In_Z5-KHLrBt?usp=drive_link)<br>
+[DIA-NN](https://drive.google.com/drive/folders/18uY7-vYLHd4TbgJ54Snay3MvSWH4LOOY?usp=drive_link)<br>
+[Module 5 Lab (R)](https://drive.google.com/drive/folders/1gweCDB6GbBH_6Gw1X4RPNQe3_H2nsmcY?usp=sharing)<br>
 
 #### Compute setup
-Coming soon!
+[Log into your Windows server at AWS](https://bioinformaticsdotca.github.io/AWS_setup_Windows)

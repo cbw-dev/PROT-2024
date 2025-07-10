@@ -1,4 +1,4 @@
-# Module 4: Data-Independent Acquisition (DIA) Analysis
+# Module 5: Best Practices in Data Analysis, Statistics, and Visualization
 
 ## Lecture
 
@@ -11,3 +11,15 @@
 ## Lab
 
 <iframe src="https://drive.google.com/file/d/1qaSDDguozhw5KZdEDWyvRxi1GBCmRn4N/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## Cheat Sheets
+
+<iframe src="https://drive.google.com/file/d/1YcAaLIBhfDHsC55HATECvgxxs6Hi6Kbn/preview" width="640" height="480" allow="autoplay"></iframe>
+
+<br>
+
+<iframe src="https://drive.google.com/file/d/1hM01Cv6lLeeBHp1sNcXeGv0YEmAESW_e/preview" width="640" height="480" allow="autoplay"></iframe>
+
+<br>
+
+<iframe src="https://drive.google.com/file/d/1x301e0Pc2jnng1fMmrOqqpszEI9exK0B/preview" width="640" height="480" allow="autoplay"></iframe>

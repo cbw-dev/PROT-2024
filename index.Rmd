@@ -1,16 +1,16 @@
 --- 
-title: "NAME OF WORKSHOP YEAR"
-author: "Faculty: INSTRUCTOR AND TA NAMES"
-date: "DATES"
+title: "Proteomic 2024"
+author: "Faculty: Jennifer Geddes-McAlister, Florence Roux-Dalvai, Ben Muselius, Marie Pier Scott-Boyer, Mickael Leclercq"
+date: "September 16, 2024 - September 18, 2024"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
-url: https://cbw-dev.github.io/bookdown-template/ # CHANGE THIS LINK TO YOUR LANDING PAGE LINK
+url: https://github.com/cbw-dev/PROT-2024 # CHANGE THIS LINK TO YOUR LANDING PAGE LINK
 cover-image: img/bioinformatics_logo.png
 description: |
-  Workshop website for the YEAR WORKSHOP Canadian Bioinformatics Workshop
+  Workshop website for the 2024 Proteomics Canadian Bioinformatics Workshop
 link-citations: yes
-github-repo: cbw-dev/bookdown-template # CHANGE THIS TO YOUR OWN REPO
+github-repo: cbw-dev/PROT-2024 # CHANGE THIS TO YOUR OWN REPO
 favicon: img/favicon.ico
 ---
 
@@ -18,18 +18,32 @@ favicon: img/favicon.ico
 
 # Workshop Info
 
-Welcome to the YEAR WORKSHOP Canadian Bioinformatics Workshop webpage!  
+Welcome to the 2024 Proteomics Canadian Bioinformatics Workshop webpage!  
 
-<!--## Class Photo
+## Class Photo
 
-After workshop concludes, YOUR EMBED CODE HERE-->
+<iframe src="https://drive.google.com/file/d/1NL0LLgWR-JWGBVs6aIWCXZ_0dn1dsYpK/preview" width="640" height="480" allow="autoplay"></iframe>
+
+<br><br>
+
+<iframe src="https://drive.google.com/file/d/1KrQH9M4QylZy7L3bE1DbsZ0yfpy7AfcL/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Schedule
 
-<!--Copy paste a table into https://www.tablesgenerator.com/markdown_tables (select convert to markdown) to create a table in markdown.   
--->
+| **Time (EST)** |                **Day 1: Mon, Sept. 16**               | **Time (EST)** |                                                                                               **Day 2: Tues, Sept. 17**                                                                                               | **Time (EST)** |            **Day 3: Wed, Sept. 18**            |
+|:--------------:|:-----------------------------------------------------:|:--------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------:|:----------------------------------------------:|
+|      8:30      |                  Arrivals & Check-in                  |      8:30      |                                                                                                        Arrivals                                                                                                       |      8:30      |                    Arrivals                    |
+|      9:00      |                  Welcome (Nia Hughes)                 |      9:00      |                                                                                                    Module 4 (Droit)                                                                                                   |      9:00      |   Module 4&5 - Lab (Droit & Geddes-McAlister)  |
+|      9:15      |              Module 1 (Geddes-McAlister)              |      9:45      |                                                                                                 Module 4 - Lab (Droit)                                                                                                |      10:30     |                  Break (30min)                 |
+|      10:45     |    Break (30min) (sponsored by Moms in Proteomics)    |      10:45     |                                                                                                     Break (30min)                                                                                                     |      11:00     |   Module 4&5 - Lab (Droit & Geddes-McAlister)  |
+|      11:15     |                    Module 2 (Droit)                   |      11:15     |                                                                                                 Module 4 - Lab (Droit)                                                                                                |      12:30     |                   Lunch (1h)                   |
+|      12:30     |               Lunch (1h) + Facility tour              |      12:30     |                                                                                                       Lunch (1h)                                                                                                      |      13:30     | Module 6 (Geddes-McAlister) + Group discussion |
+|      13:30     |              Module 3 (Geddes-McAlister)              |      13:30     |                                                                                              Module 5 (Geddes-McAlister)                                                                                              |      15:00     |                  Break (30min)                 |
+|      14:30     |            Module 3 Lab (Geddes-McAlister)            |      15:00     |                                                                                                     Break (30min)                                                                                                     |      15:30     |                Module 7 (Droit)                |
+|      15:30     |                     Break (30min)                     |      15:30     |                                                                                              Module 5 (Geddes-McAlister)                                                                                              |      16:30     |            Survey & Closing Remarks            |
+|      16:00     |            Module 3 Lab (Geddes-McAlister)            |      16:15     |                                                                                            Module 5 Lab (Geddes-McAlister)                                                                                            |      17:00     |                    Finished                    |
+|      17:30     | Networking & dinner (Sponsored by CNPN) + Group photo |      17:00     | Guest lecture: New technology and application talk by Dr. Kevin Cormier, Proteomics Scientist, Protein Chemistry Section/Integrated Data Science Section, Research Technologies Branch, National Institutes of Health |                |                                                |
 
 ## Pre-work
 
-<!--[You can find your pre-work here.](LINK TO PREWORK)
--->
+[You can find your pre-work here.](https://docs.google.com/forms/d/e/1FAIpQLScSkUfju24IarDfunnvCKcBvN8SW7-m-5arH-zlfrtY0ahsFw/viewform)

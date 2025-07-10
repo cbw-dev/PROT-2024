@@ -1,0 +1,14 @@
+# Module 6: Considerations and Tools for Complex Datasets
+
+## Lecture
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/XmcInuL6mPg?si=ovmENH1T4G2VtQdb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
+<iframe src="https://drive.google.com/file/d/1fst0tejFzB76RkHMFM5wfrDOSJWAdags/preview" width="640" height="480" allow="autoplay"></iframe>
+
+<br>
+
+<iframe src="https://drive.google.com/file/d/1DuRVPV1bzWJfLKWfjnFDWsXABFJ2kUon/preview" width="640" height="480" allow="autoplay"></iframe>
+
