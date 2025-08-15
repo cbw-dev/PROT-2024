@@ -1,5 +1,5 @@
 --- 
-title: "Proteomic 2024"
+title: "Proteomics 2024"
 author: "Faculty: Jennifer Geddes-McAlister, Florence Roux-Dalvai, Ben Muselius, Marie Pier Scott-Boyer, Mickael Leclercq"
 date: "September 16, 2024 - September 18, 2024"
 site: bookdown::bookdown_site
@@ -46,4 +46,4 @@ Welcome to the 2024 Proteomics Canadian Bioinformatics Workshop webpage!
 
 ## Pre-work
 
-[You can find your pre-work here.](https://docs.google.com/forms/d/e/1FAIpQLScSkUfju24IarDfunnvCKcBvN8SW7-m-5arH-zlfrtY0ahsFw/viewform)
+You can find your pre-work [here.](https://docs.google.com/forms/d/e/1FAIpQLScSkUfju24IarDfunnvCKcBvN8SW7-m-5arH-zlfrtY0ahsFw/viewform)

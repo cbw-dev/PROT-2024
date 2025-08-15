@@ -1,4 +1,4 @@
-# Module 6: Considerations and Tools for Complex Datasets
+# Module 7: Multi-omics Integration & Current and Future Advances of AI in Proteomics
 
 ## Lecture
 
